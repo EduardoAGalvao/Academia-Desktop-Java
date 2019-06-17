@@ -49,4 +49,8 @@ To remove the client from register, just push the delete button.
 
 To perform, run as a Java Application on the AcademiaApp.java class.
 
+Version: 1.0
+
+Creation: 01/04/2019
+
 *Everything made with a lot of curiosity and programming passion*
